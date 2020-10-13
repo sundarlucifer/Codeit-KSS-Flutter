@@ -23,7 +23,7 @@ Map<String, String> gitID = {
   'Saravanan B': '',
   'Shanthi A': 'shanthivalli',
   'Shenbaga Abirami B': 'abianusha19',
-  'Shiva S': 'shiva7-6',
+  'Shiva A': 'shiva7-6',
   'Sundar S' : 'sundarlucifer',
   'Swetha S': '',
   'Yogessh V': 'Yogessh3',
