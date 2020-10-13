@@ -13,7 +13,7 @@ Map<String, String> gitID = {
   'Pavitra T': 'pavi2004',
   'Priyadharshini L': 'Priyadharshini22',
   'Rajanayaki S': 'Rajanayaki',
-  'Rajapriyadharshini S' : 'rpd-tweet',
+  'Rajapriyadharshini MS' : 'rpd-tweet',
   'Rathika M': 'CMRathika',
   'Roshini R': 'roshinir1705',
   'Rupa Shri': 'rupashri-s145',
